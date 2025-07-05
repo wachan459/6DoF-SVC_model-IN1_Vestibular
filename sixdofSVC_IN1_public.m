@@ -1,3 +1,7 @@
+% This file is part of 6DoF-SVC_IN model.
+% Copyright (c) 2025 Takahiro Wada
+% Released under the MIT License.
+%
 %2023.June, 4 
 % 6DoFSVC-IN1 model with only Vestibular input
 %[1] S. Inoue, H. Liu, and T. Wada, ÅgRevisiting Motion Sickness Models Based on SVC Theory Considering Motion Perception,Åh 
