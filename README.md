@@ -26,3 +26,9 @@ Reference
 
 [3] Inoue, S., Dang, V. T., Liu, H., & Wada, T. (2025). Construction of a computational model of individual progression of motion sickness symptoms based on subjective vertical conflict theory. Experimental Brain Research, 243(5), 108. https://doi.org/10.1007/s00221-025-07052-5
 
+## Reference
+If you use this model, please cite:
+- Wada, T. (20XX). [Paper title]. *Journal Name*, vol(x), pp–pp.
+
+## License
+MIT License
