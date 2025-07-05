@@ -17,6 +17,7 @@ The step 1) leverages a key property of the 6DoF-SVC (IN1) model described in [2
 Note that step (1) is particularly useful when applying the 6DoF-SVC model to real-world IMU data. For example, it is effective when the IMU is not aligned with the intended coordinate system (e.g., due to tilted sensor mounting).
 
 Reference
+
 [1] Inoue, S., Liu, H., and Wada, T., "Revisiting Motion Sickness Models Based on SVC Theory Considering Motion Perception," SAE Technical Paper 2023-01-0176, 2023, https://doi.org/10.4271/2023-01-0176.
 
 [2] Wada, T., & Bos, J. E. (2025). Theoretical Considerations on Models of Vestibular Self-motion Perception as Inherent in Computational Frameworks of Motion Sickness. Biological Cybernetics.
