@@ -1,6 +1,8 @@
 # 6DoF-SVC_model-IN1_Vestibular
 6DoF-SVC (In1) model for Vestibular Motion Sickness
 
+## Description
+
 This is a test program for a motion sickness model that estimates the motion sickness incidence (MSI) [%] based on the input of head-centered linear acceleration (GIF) f (=g+a) and angular velocity omega.
 The model implemented here is referred to as "IN1," one of the 6DoF-SVC models described in references [1] and [2]. It is based on the Subjective Vertical Conflict (SVC) theory (Bles & Bos, 1998), which can be regarded as a refined version of the well-known Sensory Conflict Theory and Neural Mismatch Theory.
 
@@ -18,7 +20,10 @@ Note that step (1) is particularly useful when applying the 6DoF-SVC model to re
 
 Note:Note: A model that outputs individual symptom progression (MISC), rather than MSI, is also available—for example, an extended version of the 6DoF-SVC (IN1) model [3].
 
-Reference
+## Environment
+This model has been tested using **MATLAB R2023b**.  
+
+## References
 
 [1] Inoue, S., Liu, H., and Wada, T., "Revisiting Motion Sickness Models Based on SVC Theory Considering Motion Perception," SAE Technical Paper 2023-01-0176, 2023, https://doi.org/10.4271/2023-01-0176.
 
@@ -26,9 +31,11 @@ Reference
 
 [3] Inoue, S., Dang, V. T., Liu, H., & Wada, T. (2025). Construction of a computational model of individual progression of motion sickness symptoms based on subjective vertical conflict theory. Experimental Brain Research, 243(5), 108. https://doi.org/10.1007/s00221-025-07052-5
 
-## Reference
-If you use this model, please cite:
-- Wada, T. (20XX). [Paper title]. *Journal Name*, vol(x), pp–pp.
+## How to cite
+If you use this model in your work, please cite:
+- Inoue, S., Liu, H., and Wada, T., "Revisiting Motion Sickness Models Based on SVC Theory Considering Motion Perception," SAE Technical Paper 2023-01-0176, 2023, https://doi.org/10.4271/2023-01-0176.
+- Wada, T., & Bos, J. E. (2025). Theoretical Considerations on Models of Vestibular Self-motion Perception as Inherent in Computational Frameworks of Motion Sickness. Biological Cybernetics.
 
 ## License
-MIT License
+This project is licensed under the MIT License.  
+See the `LICENSE` file for details.
