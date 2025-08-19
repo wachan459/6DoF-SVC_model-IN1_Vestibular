@@ -4,53 +4,9 @@ authors:
   - family-names: Wada
     given-names: Takahiro
     affiliation: Nara Institute of Science and Technology
-  - family-names: Inoue
-    given-names: Shoya
-  - family-names: Liu
-    given-names: Haoran
-  - family-names: Bos
-    given-names: Jelte E.
 version: 1.0.0
 date-released: 2025-08-20
-doi: "10.5281/zenodo.xxxxxxx"
+doi: "10.5281/zenodo.xxxxxxx"   # Zenodoで発行されたDOIをここに入れる
 url: "https://github.com/wachan459/6DoF-SVC_model-IN1_Vestibular"
 license: MIT
 
-preferred-citation:
-  type: software
-  title: "6DoF-SVC_model-IN1_Vestibular"
-  authors:
-    - family-names: Wada
-      given-names: Takahiro
-    - family-names: Inoue
-      given-names: Shoya
-    - family-names: Liu
-      given-names: Haoran
-    - family-names: Bos
-      given-names: Jelte E.
-  year: 2025
-  doi: "10.5281/zenodo.xxxxxxx"
-
-references:
-  - type: article
-    authors:
-      - family-names: Inoue
-        given-names: Shoya
-      - family-names: Liu
-        given-names: Haoran
-      - family-names: Wada
-        given-names: Takahiro
-    year: 2023
-    title: "Revisiting Motion Sickness Models Based on SVC Theory Considering Motion Perception"
-    journal: "SAE Technical Paper 2023-01-0176"
-    doi: "10.4271/2023-01-0176"
-
-  - type: article
-    authors:
-      - family-names: Wada
-        given-names: Takahiro
-      - family-names: Bos
-        given-names: Jelte E.
-    year: 2025
-    title: "Theoretical Considerations on Models of Vestibular Self-motion Perception as Inherent in Computational Frameworks of Motion Sickness"
-    journal: "Biological Cybernetics"
