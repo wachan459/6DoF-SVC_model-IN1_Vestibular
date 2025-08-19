@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "6DoF-SVC_model-IN1_Vestibular"
+authors:
+  - family-names: Wada
+    given-names: Takahiro
+    affiliation: Nara Institute of Science and Technology
+version: 1.0.0
+date-released: 2025-08-20
+doi: "10.5281/zenodo.xxxxxxx"   # Zenodoで発行されたDOIをここに入れる
+url: "https://github.com/wachan459/6DoF-SVC_model-IN1_Vestibular"
+license: MIT
