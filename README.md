@@ -34,8 +34,8 @@ This model has been tested using **MATLAB R2023b**.
 ## How to cite
 If you use this model in your work, please cite:
 - Inoue, S., Liu, H., and Wada, T., "Revisiting Motion Sickness Models Based on SVC Theory Considering Motion Perception," SAE Technical Paper 2023-01-0176, 2023, https://doi.org/10.4271/2023-01-0176.
-- Wada, T., & Bos, J. E. (2025). Theoretical Considerations on Models of Vestibular Self-motion Perception as Inherent in Computational Frameworks of Motion Sickness. Biological Cybernetics.
-
+- Wada, T., Bos, J.E. Theoretical considerations on models of vestibular self-motion perception as inherent in computational frameworks of motion sickness. Biol Cybern 119, 22 (2025). https://doi.org/10.1007/s00422-025-01018-0
+- 
 ## License
 This project is licensed under the MIT License.  
 See the `LICENSE` file for details.
