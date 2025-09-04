@@ -1,4 +1,4 @@
-# 6DoF-SVC_model-IN1_Vestibular
+# 6DoF-SVC_model-IN1_Vestibular 
 6DoF-SVC (In1) model for Vestibular Motion Sickness
 
 ## Description
